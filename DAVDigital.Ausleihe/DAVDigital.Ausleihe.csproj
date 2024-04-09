@@ -49,6 +49,7 @@
 	  <RepositoryUrl>https://github.com/kinnajowa/DAVDigital.Ausleihe.git</RepositoryUrl>
 	  <RepositoryType>git</RepositoryType>
 	  <NeutralLanguage>de-DE</NeutralLanguage>
+	  <DefaultLanguage>de-DE</DefaultLanguage>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-maccatalyst|AnyCPU'">
