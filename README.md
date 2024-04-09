@@ -1,1 +1,2 @@
-# DAVDigital
+# DAVDigital.Ausleihe
+[![DAVDigital.Ausleihe Release](https://github.com/kinnajowa/DAVDigital.Ausleihe/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/kinnajowa/DAVDigital.Ausleihe/actions/workflows/dotnet-desktop.yml)
